@@ -1,0 +1,29 @@
+{
+  "name": "event-organiser-booking-notification-settings",
+  "title": "Event Organiser Booking Notification Settings",
+  "description": "Adds UI settings so that you can change which emails are notified when a booking is made and/or confirmed.",
+  "version": "0.1.0",
+  "homepage": "http://wp-event-organiser.com",
+  "author": {
+    "name": "Stephen Harris",
+    "email": "contact@stephenharris.info",
+    "url": "http://stephenharris.info"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-checkbranch": "~0.2.2",
+    "grunt-checkrepo": "~0.1.0",
+    "grunt-checktextdomain": "~0.1.1",
+    "grunt-checkwpversion": "~0.2.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-compress": "~0.5.2",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-newer": "~0.5.4",
+    "grunt-po2mo": "~0.1.0",
+    "grunt-pot": "~0.1.0",
+    "grunt-wp-readme-to-markdown": "~0.8.0",
+    "load-grunt-tasks": "~0.2.0"
+  },
+  "keywords": []
+}
