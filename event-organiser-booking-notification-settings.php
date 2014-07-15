@@ -3,7 +3,7 @@
  * Plugin Name: Event Organiser Booking Notification Settings
  * Plugin URI:  http://wp-event-organiser.com
  * Description: Adds UI settings so that you can change which emails are notified when a booking is made and/or confirmed.
- * Version:     0.1.0
+ * Version:     1.0.0
  * Author:      Stephen Harris
  * Author URI:  http://stephenharris.info
  * License:     GPLv2+
@@ -30,7 +30,7 @@
  */
 
 // Useful global constants
-define( 'EOBNS_VERSION', '0.1.0' );
+define( 'EOBNS_VERSION', '1.0.0' );
 define( 'EOBNS_URL', plugin_dir_url( __FILE__ ) );
 define( 'EOBNS_DIR', plugin_dir_path( __FILE__ ) );
 

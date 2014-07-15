@@ -2,7 +2,7 @@
   "name": "event-organiser-booking-notification-settings",
   "title": "Event Organiser Booking Notification Settings",
   "description": "Adds UI settings so that you can change which emails are notified when a booking is made and/or confirmed.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "http://wp-event-organiser.com",
   "author": {
     "name": "Stephen Harris",

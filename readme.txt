@@ -4,7 +4,7 @@ Donate link: http://wp-event-organiser.com
 Tags: 
 Requires at least: 3.3
 Tested up to: 3.8
-Stable tag: 0.1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 
 Adds UI settings so that you can change which emails are notified when a booking is made and/or confirmed.
