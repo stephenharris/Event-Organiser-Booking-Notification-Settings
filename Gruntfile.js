@@ -163,7 +163,7 @@ module.exports = function( grunt ) {
 
 	grunt.registerTask( 'build', [ 'test', 'compile', 'clean', 'copy', 'compress' ] );
 
-	grunt.registerTask( 'deploy', [ 'checkwpversion', 'checkbranch:master', 'checkrepo:deploy', 'build',] );
+	grunt.registerTask( 'deploy', [ 'checkbranch:master', 'checkrepo:deploy', 'build',] );
 
 	grunt.util.linefeed = '\n';
 };
