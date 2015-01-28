@@ -49,11 +49,6 @@ function eobns_init() {
 
 	load_plugin_textdomain( 'eobns', false, EOBNS_DIR . '/languages/' );
 	
-	//Add-on handlings
-	if( defined( 'EVENT_ORGANISER_VER' ) ){
-		require_once( EOBNS_DIR . 'includes/add-on.php' );
-	}
-	
 }
 add_action( 'plugins_loaded', 'eobns_init' );
 
